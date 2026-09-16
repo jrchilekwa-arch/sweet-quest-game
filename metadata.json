@@ -1,0 +1,6 @@
+{
+  "name": "Sweet Quest",
+  "description": "A professional mobile match-3 puzzle game with 30 unique levels, special candy combos, power-ups, world map, daily rewards, achievements, and shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
